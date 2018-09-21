@@ -1,11 +1,16 @@
 _repo: A-Prince-to-Order_54916
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54916-h/images/cover.jpg
 creator:
   author:
     agent_name: Wayne, Charles Stokes
     gutenberg_agent_id: '48103'
     url: http://www.gutenberg.org/2009/agents/48103
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54916#A-Prince-to-Order
 gutenberg_issued: '2017-06-15'
 gutenberg_type: Text
 identifiers:
